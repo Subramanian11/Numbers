@@ -1,4 +1,4 @@
-he sum of all the given digits of a number and the reverse of that sum is multiplied, which is equal to the original number, 
+The sum of all the given digits of a number and the reverse of that sum is multiplied, which is equal to the original number, 
 and then the number is called a magic number.
 
 Example:
